@@ -1,0 +1,6 @@
+D:\docode\studyspace\eventTest\eventTest\bin\Debug\eventTest.exe.config
+D:\docode\studyspace\eventTest\eventTest\bin\Debug\eventTest.exe
+D:\docode\studyspace\eventTest\eventTest\bin\Debug\eventTest.pdb
+D:\docode\studyspace\eventTest\eventTest\obj\Debug\eventTest.csprojResolveAssemblyReference.cache
+D:\docode\studyspace\eventTest\eventTest\obj\Debug\eventTest.exe
+D:\docode\studyspace\eventTest\eventTest\obj\Debug\eventTest.pdb
