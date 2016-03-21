@@ -1,0 +1,6 @@
+D:\docode\studyspace\ReadCSV\ReadCSV\bin\Debug\ReadCSV.exe.config
+D:\docode\studyspace\ReadCSV\ReadCSV\bin\Debug\ReadCSV.exe
+D:\docode\studyspace\ReadCSV\ReadCSV\bin\Debug\ReadCSV.pdb
+D:\docode\studyspace\ReadCSV\ReadCSV\obj\Debug\ReadCSV.csprojResolveAssemblyReference.cache
+D:\docode\studyspace\ReadCSV\ReadCSV\obj\Debug\ReadCSV.exe
+D:\docode\studyspace\ReadCSV\ReadCSV\obj\Debug\ReadCSV.pdb
